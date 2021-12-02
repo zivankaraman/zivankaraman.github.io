@@ -1,1 +1,1 @@
-# Zivan Karaman's GitHub pages
+# Zivan's GitHub pages
