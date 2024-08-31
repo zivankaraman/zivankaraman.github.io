@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: black;
+  background-color: rgb(44, 44, 44);
 }
 
 .content-wrapper {
@@ -19,25 +19,25 @@ body {
 }
 
 h1 {
-  color: white;
-  font-family: "Source Sans Pro", sans-serif;
+  color: rgb(204, 204, 204);
+  font-family: "Comfortaa", sans-serif;
   font-size: 5em;
   letter-spacing: -0.04em;
 }
 
 p {
-  color: rgb(98, 0, 255);
-  font-family: "Comfortaa", cursive;
+  color: rgb(0, 170, 255);
+  font-family: "Source Sans Pro", cursive;
   font-size: 1.5em;
   margin: 15px 0;
 }
 
 .divider {
-  color: white;
+  color: rgb(204, 204, 204);
 }
 
 .icon {
-  color: white;
+  color: rgb(204, 204, 204);
   padding: 15px;
   border-radius: 50%;
 }
